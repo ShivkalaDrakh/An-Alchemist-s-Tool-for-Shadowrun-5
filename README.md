@@ -9,6 +9,7 @@ This tool targets to ease the preparation and book keeping in order to focus on 
 ### Setting up the spells
 Once you start the tool, some default setup appears with a number of spells (I often use), as seen in the screenshot below:
 (No worries, you can change that default later on)
+
 ![Default setup](AAT%20initial%20setup.png)
 
 Here you have 
@@ -27,6 +28,7 @@ If you want to remove spells, just click on the 'X' of the spell to remove. You 
 
 To add spells, select 'Additional Spells' and select all the spells you want to add from the lisz.
 Attention: They will only be put in the active field by clicking on 'Add selected Spell(s)'
+
 ![Add spells to list](AAT_select_spell.png)
 
 ### Ready to GO!
@@ -37,6 +39,7 @@ The following will happen:
 * The overall amount of time to cast the spells will be displayed as Duration in minutes.
 * The total of uncompensated drain will be shown
 * A new window showing all successful spells with level and number of net successes will pop up
+  
 ![Casting Spellst](AAT%20Go.png)
 ![Available Spells window](AAT%20Available%20Spells.png)
 

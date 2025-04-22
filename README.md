@@ -47,4 +47,4 @@ The following will happen:
 Each spell cast is listed on the Available Spells window with level, net successes and a checkbox. Spells that had no net success are grayed out.
 
 Once you use your alchemistic spell, just click on the checkbox and it will show that this spell is used up.
-![Used Spells are no longer selectable](AAT%20Spells%used.png)
+![Used Spells are no longer selectable](AAT%20Spells%20used.png)

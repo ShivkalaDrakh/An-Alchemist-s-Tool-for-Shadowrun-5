@@ -1,0 +1,202 @@
+Abhängigkeit Lindern;Heilung;-6;SG 108
+Allergie Lindern;Heilung;-6;SG 108
+[Attribut] Senken;Heilung;-2;SG 109
+[Attribut] Steigern;Heilung;-3;SG 109
+Aufputschen;Heilung;-3;SG 109
+Aufwecken;Heilung;-3;SG 109
+Beidhändigkeit;Heilung;-3;SG 110
+Entgiftung;Heilung;-6;SG 110
+Ernährung;Heilung;-3;SG 110
+Erzwungene Verteidigung;Heilung;-1;SG 110
+Fasten;Heilung;-3;SG 110
+Gegenmittel;Heilung;-3;SG 110
+Giftverstärkung;Heilung;-3;SG 110
+Heilen;Heilung;-4;SG 111
+Krankheit Heilen;Heilung;-4;SG 111
+Limit Erhöhen;Heilung;-1;SG 111
+Limit Senken;Heilung;-1;SG 111
+Prophylaxe;Heilung;-4;SG 111
+Reflexe Senken;Heilung;-2;SG 111
+Reflexe Steigern;Heilung;0;SG 111
+Sauerstoffmaske;Heilung;-5;SG 111
+Schmerzresistenz;Heilung;-4;SG 112
+Stabilisieren;Heilung;-4;SG 112
+Vollrausch;Heilung;-3;SG 112
+Winterschlaf;Heilung;-2;SG 112
+Böse Ahnung;Illusion;-3;SG 112
+Chaos;Illusion;-2;SG 117
+Chaotische Welt;Illusion;0;SG 117
+Double;Illusion;-1;SG 113
+Düppel;Illusion;-1;SG 115
+Euphorie;Illusion;-3;SG 113
+Fahrzeugmaske;Illusion;-3;SG 114
+Fahrzeugsignatur Austauschen speziell;Illusion;1;SG 114
+Gestank;Illusion;-3;SG 114
+Gestohlener [Sinn];Illusion;-3;SG 114
+Heißes Eisen;Illusion;-3;SG 115
+Leiser Schritt;Illusion;-2;SG 115
+Lockvogel;Illusion;-3;SG 115
+Maske;Illusion;-2;SG 115
+Massenschmerz;Illusion;-2;SG 116
+Massenverwirrung;Illusion;-1;SG 117
+Opiumhöhle;Illusion;-1;SG 113
+Physische Maske;Illusion;-1;SG 115
+Physische Tarnung;Illusion;0;SG 116
+Rundum Gestohlener [Sinn];Illusion;-1;SG 114
+Schallbarriere;Illusion;-3;SG 115
+Schmerz;Illusion;-4;SG 116
+Schwarm;Illusion;-1;SG 118
+Schweigen;Illusion;-2;SG 116
+Stille;Illusion;-1;SG 116
+Stinkbombe;Illusion;-1;SG 114
+Tarnung;Illusion;-2;SG 116
+Traum;Illusion;-3;SG 116
+Trideo-Trugbild;Illusion;0;SG 117
+Trideo-Unterhaltung;Illusion;-2;SG 117
+Trugbild;Illusion;-1;SG 116
+Unsichtbarkeit;Illusion;-2;SG 117
+Unterhaltung;Illusion;-3;SG 117
+Verbesserte Unsichtbarkeit;Illusion;-1;SG 117
+Verwirrung;Illusion;-3;SG 117
+Viecher;Illusion;-3;SG 118
+Betäubungsball;Kampf;0;SG 122
+Betäubungsblitz;Kampf;-3;SG 122
+Blitzstrahl;Kampf;-3;SG 118
+Druckwelle;Kampf;0;SG 122
+Ein [Metatyp/Spezies] Weniger;Kampf;-6;SG 118
+Eisspeer;Kampf;-3;SG 118
+Eissturm;Kampf;1;SG 118
+Energieball;Kampf;0;SG 119
+Energieblitz;Kampf;-3;SG 119
+Energieschlag;Kampf;-6;SG 119
+[Fahrzeug] Zerstören;Kampf;-3;SG 119
+Feuerball;Kampf;-1;SG 119
+Flammenwerfer;Kampf;-3;SG 119
+[Fokus] Verdrängen speziell;Kampf;-2;SG 119
+[Freien Geist] Vernichten;Kampf;-3;SG 119
+Griechisches Feuer;Kampf;-2;SG 120
+[Insektengeist]-Insektizi;Kampf;1;SG 120
+Kugelblitz;Kampf;-1;SG 118
+Manaball;Kampf;0;SG 122
+Manablitz;Kampf;-3;SG 122
+[Metatyp/Spezies] Erschlagen;Kampf;-4;SG 118
+[Metatyp/Spezies] Niedermetzeln;Kampf;-2;SG 118
+Napalm;Kampf;0;SG 120
+[Objekt] Aufl ösen;Kampf;-1;SG 120
+[Objekt] Rammen;Kampf;-5;SG 120
+[Objekt] Verätzen;Kampf;-5;SG 120
+[Objekt] Vernichten;Kampf;-1;SG 120
+[Objekt] Zersetzen;Kampf;-3;SG 120
+[Objekt] Zertrümmern;Kampf;-3;SG 120
+Radioaktiver Strahl;Kampf;-3;SG 120
+Säurestrahl;Kampf;-3;SG 121
+Säurewelle;Kampf;-1;SG 121
+Schadstoffstrom;Kampf;-3;SG 122
+Schadstoffwelle;Kampf;-1;SG 122
+Schildbrecher;Kampf;-3;SG 122
+Schlag;Kampf;-6;SG 122
+Schockhand;Kampf;-6;SG 122
+Stoß;Kampf;-3;SG 122
+Strahlenexplosion;Kampf;-1;SG 120
+Todeshand;Kampf;-6;SG 122
+Ausrüstungslimit Erhöhen;Manipulation;-1;SG 123
+Ausrüstungslimit Senken;Manipulation;-1;SG 123
+Beeinfl ussen;Manipulation;-1;SG 123
+Belebung;Manipulation;-1;SG 124
+Eisdecke;Manipulation;0;SG 124
+[Element]-Aura;Manipulation;1;SG 124
+[Element] Reinigen;Manipulation;-3;SG 124
+[Element]-Wand;Manipulation;2;SG 124
+Entzünden;Manipulation;-1;SG 125
+Fahrzeug Schützen;Manipulation;-1;SG 125
+Fahrzeug Verlangsamen;Manipulation;1;SG 125
+Geckogang;Manipulation;-3;SG 125
+Gedanken Beherrschung;Manipulation;-1;SG 125
+Geisterbarriere;Manipulation;-1;SG 126
+Geisterlöscher;Manipulation;1;SG 126
+Gestaltwandlung;Manipulation;-3;SG 126
+Handlungen Beherrschen;Manipulation;-1;SG 126
+Impuls;Manipulation;3;SG 126
+Insektenvernichter;Manipulation;1;SG 126
+Interferenz;Manipulation;-1;SG 127
+Klammer;Manipulation;-2;SG 127
+Klebestreifen;Manipulation;-1;SG 127
+Klebstoff;Manipulation;-3;SG 127
+Konservieren;Manipulation;-3;SG 127
+Levitieren;Manipulation;-2;SG 128
+Licht;Manipulation;-4;SG 128
+Manabarriere;Manipulation;-2;SG 128
+Manaklammer;Manipulation;-2;SG 127
+Mananetz;Manipulation;-1;SG 127
+Manastörung;Manipulation;-1;SG 128
+Massenbelebung B;Manipulation;1;SG 124
+[Material] Formen;Manipulation;-2;SG 128
+Meute Beherrschen;Manipulation;-1;SG 132
+Meute Beruhigen;Manipulation;-1;SG 132
+Mob-Bewusstsein;Manipulation;1;SG 125
+Mob-Kontrolle;Manipulation;1;SG 126
+Mode;Manipulation;-1;SG 129
+Nebel;Manipulation;-3;SG 129
+Netz;Manipulation;-1;SG 127
+Offensive Manabarriere;Manipulation;3;SG 129
+Panzerung;Manipulation;-2;SG 129
+Physische Barriere;Manipulation;-1;SG 129
+Poltergeist;Manipulation;-2;SG 130
+Projektilabwehr;Manipulation;-1;SG 130
+Rauschen Erhöhen;Manipulation;-3;SG 130
+Rauschen Senken;Manipulation;-1;SG 131
+Reparieren;Manipulation;0;SG 131
+Sanfter Fall;Manipulation;-3;SG 131
+Schatten;Manipulation;-3;SG 131
+Schleimverwandlung;Manipulation;3;SG 131
+Schleuder;Manipulation;-2;SG 131
+Schloss;Manipulation;-1;SG 132
+Sterilisieren;Manipulation;-3;SG 132
+Tier Beherrschen;Manipulation;-3;SG 132
+Tier Beruhigen;Manipulation;-3;SG 132
+Typveränderung;Manipulation;-3;SG 132
+Überzeugen;Manipulation;-2;SG 132
+Verstärken;Manipulation;-1;SG 133
+Versteinern;Manipulation;-2;SG 133
+Verwandlung [Critter];Manipulation;-4;SG 126
+Wahrheit Erzwingen speziell;Manipulation;-1;SG 133
+Zauberfi nger;Manipulation;-2;SG 133
+Adlerauge;Wahrnehmung;-1;SG 134
+Astrale Botschaft speziell;Wahrnehmung;-3;SG 134
+Astrale Drachensuche;Wahrnehmung;5;SG 134
+Astrale Hellsicht;Wahrnehmung;-3;SG 134
+Astrales Fenster;Wahrnehmung;-3;SG 137
+Augen des Rudels;Wahrnehmung;-1;SG 138
+Diagnose;Wahrnehmung;-3;SG 134
+Dolmetschen;Wahrnehmung;-4;SG 134
+Erweiterter Umgebungssinn;Wahrnehmung;-1;SG 138
+Erweitertes Feinde Entdecken;Wahrnehmung;0;SG 135
+Erweitertes Leben Entdecken;Wahrnehmung;-1;SG 136
+Erweitertes [Lebensform] Entdecken;Wahrnehmung;0;SG 137
+Erweitertes Magie Entdecken;Wahrnehmung;0;SG 137
+Erweitertes Telepathisches Netz;Wahrnehmung;1;SG 138
+Feinde Entdecken;Wahrnehmung;-2;SG 135
+Gedankenmuster;Wahrnehmung;0;SG 135
+Gedankenscan;Wahrnehmung;2;SG 135
+Geistesssonde;Wahrnehmung;0;SG 135
+Gerät Analysieren;Wahrnehmung;-3;SG 136
+Hellhören;Wahrnehmung;-3;SG 136
+Hellsicht;Wahrnehmung;-3;SG 136
+Individuum Entdecken;Wahrnehmung;-3;SG 136
+Kampfsinn;Wahrnehmung;0;SG 136
+Katalog;Wahrnehmung;-3;SG 136
+Leben Entdecken;Wahrnehmung;-3;SG 136
+[Lebensform] Entdecken;Wahrnehmung;-2;SG 137
+Magie Analysieren;Wahrnehmung;-3;SG 137
+Magie Entdecken;Wahrnehmung;-2;SG 137
+Manafenster;Wahrnehmung;-3;SG 137
+Nachtsicht;Wahrnehmung;-3;SG 137
+[Objekt] Entdecken;Wahrnehmung;-2;SG 137
+Sinn Borgen;Wahrnehmung;-3;SG 137
+Telepathie;Wahrnehmung;-1;SG 138
+Telepathisches Netz;Wahrnehmung;0;SG 138
+Tiersinn Borgen;Wahrnehmung;-5;SG 138
+Übernatürlicher [Sinn];Wahrnehmung;-3;SG 138
+Umgebungssinn;Wahrnehmung;-3;SG 138
+Wahrheit Prüfen;Wahrnehmung;-2;SG 139
+Zielfähigkeit Steigern;Wahrnehmung;-1;SG 139

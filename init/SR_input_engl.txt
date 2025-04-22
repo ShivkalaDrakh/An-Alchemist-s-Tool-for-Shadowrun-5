@@ -1,0 +1,9 @@
+Forced Defense;Health;-1;SG 110;4,4,4
+Heal;Health;-4;SR5 288;6,6
+Increase Reflexes;Health;0;SR5 288;3
+Armor;Manipulation;-2;SR5 292;5
+Shapechange;Manipulation;-3;SG 118;5,5,5
+Punch;Combat;-6;SR5 283;0
+Knockout;Combat;-6;SR5 284;8,8,8,8
+Death Touch;Combat;-6;SR5 284;0
+Combat Sense;Detection;0;SR5 286;3

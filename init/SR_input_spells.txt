@@ -1,0 +1,9 @@
+Erzwungene Verteidigung;Heilung;-1;SG 110;4,4,4
+Heilen;Heilung;-4;SG 111;6,6
+Reflexe Steigern;Heilung;0;SG 111;3
+Panzerung;Manipulation;-2;SG 129;5
+Gestaltwandlung;Manipulation;-3;SG 126;5,5,5
+Energieschlag;Kampf;-6;SG 119;0
+Schockhand;Kampf;-6;SG 122;8,8,8,8
+Todeshand;Kampf;-6;SG 122;0
+Kampfsinn;Wahrnehmung;0;SG 136;3

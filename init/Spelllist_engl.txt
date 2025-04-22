@@ -1,0 +1,293 @@
+Acid Stream;Combat;-3;SR5 283
+Ball Lightning;Combat;-1;SR5 284
+Barrage;Combat;+3;FA 50
+Blast;Combat;0;SR5 284
+Boil Blood;Combat;-2;FA 125
+Chill;Combat;-1;Sh 16
+Claw;Combat;0;FA 50
+Clout;Combat;-3;SR5 284
+Comet;Combat;0;FA 50
+Corpse Explosion;Combat;0;FA 126
+Corrode [Object];Combat;-5;SG 102
+Death Touch;Combat;-6;SR5 284
+Demolish [Object];Combat;-1;SG 105
+Destroy [Free Spirit];Combat;-3;SG 103
+Destroy [Vehicle]; F-3 SG 103
+Disrupt [Focus];Combat;-2;SG 102
+[Element] Grenade;Combat;-1;Sh 17
+Embolism;Combat;-2;FA 126
+Evil Eye;Combat;-3;FA 50
+Fireball;Combat;-1;SR5 284
+Firewater;Combat;-2;SG 103
+Flame Burst;Combat;+1;Sh 16
+Flamethrower;Combat;-3;SR5 284
+Frigid;Combat;+1;Sh 16
+Giger Spit;Combat;-4;FA 126
+Hose;Combat;-3;BlB 155
+Ice Spear;Combat;-3;SG 103
+Ice Storm;Combat;+1;SG 103
+Ice Vein;Combat;-3;FA 127
+Insecticide [Insect Spirit];Combat;+1;SG 103
+Knockout;Combat;-6;SR5 284
+Lash;Combat;0;FA 49
+Lightning Bolt;Combat;-3;SR5 284
+Magebolt;Combat;-4;Sh 17
+Manaball;Combat;0;SR5 284
+Manabolt;Combat;-3;SR5 284
+Melt [Object];Combat;-3;SG 102
+Napalm;Combat;0;SG 103
+One Less [Metatype/Species];Combat;-6;SG 104
+Pollutant Stream;Combat;-3;SG 106
+Pollutant Wave;Combat;-1;SG 106
+Powerball;Combat;0;SR5 284
+Powerbolt;Combat;-3;SR5 284
+Punch;Combat;-6;SR5 283
+Pyrohemetics;Combat;-4;FA 127
+Radiation Beam;Combat;-3;SG 105
+Radiation Blast;Combat;-1;SG 105
+Ram [Object];Combat;-5;SG 104
+Rupture;Combat;-6;FA 127
+Shatter;Combat;-6;SR5 284
+Shattershield;Combat;-3;SG 106
+Slash;Combat;+3;FA 49
+Slaughter [Metatype/Species];Combat;-2;SG 104
+Slaughter [Metatype/Species];Combat;-1;Sa 33
+Slay [Metatype/Species];Combat;-4;SG 104
+Slay [Metatype/Species];Combat;-4;Sa 33
+Sludge [Object];Combat;-1;SG 102
+Spellblades, Manablade;Combat;-2;HT 192
+Spellblades, Powerblade;Combat;-2;HT 192
+Stunball;Combat;0;SR5 285
+Stunbolt;Combat;-3;SR5 284
+Sunbeam;Combat;-1;Sh 17
+Toxic Wave;Combat;-1;SR5 283
+Tsunami;Combat;-1;BlB 155
+Wreck [Object];Combat;-3;SG 105
+Analyze Device;Detection;-3;SR5 285
+Analyze Magic;Detection;-3;SR5 285
+Analyze Truth;Detection;-2;SR5 286
+Animal Sense;Detection;-5;SG 106
+Area Thought Recognition;Detection;-3;SG 108
+Astral Clairvoyance;Detection;-3;SG 106
+Astral Message;Detection;-3;SG 106
+Astral Window;Detection;-3;SG 107
+Borrow Sense;Detection;-3;SG 106
+Broadcast;Detection;+1;Sh 18
+Catalog;Detection;-3;SG 107
+Clairaudience;Detection;-3;SR5 286
+Clairvoyance;Detection;-3;SR5 286
+Combat Sense;Detection;0;SR5 286
+Consistency;Detection;-3;CA 153
+Death Replay;Detection;-3;BB 21
+Detect Enemies;Detection;-2;SR5 286
+Detect Enemies, Extended;Detection;0;SR5 286
+Detect Individual;Detection;-3;SR5 286
+Detect Life;Detection;-3;SR5 286
+Detect Life, Extended;Detection;-1;SR5 286
+Detect [Life form];Detection;-2;SR5 287
+Detect [Life form], Extended;Detection;0;SR5 287
+Detect Magic;Detection;-2;SR5 287
+Detect Magic, Extended;Detection;0;SR5 287
+Detect [Object];Detection;-2;SR5 287
+Diagnose;Detection;-3;SG 107
+Dragon Astral Signature;Detection;+5;SG 107
+Enhance Aim;Detection;-1;SG 107
+Eyes of the Pack;Detection;-1;SG 106
+Hawkeye;Detection;-1;SG 107
+Mana Window;Detection;-3;SG 107
+Mind Probe;Detection;0;SR5 287
+Mindlink;Detection;-1;SR5 287
+Mindnet;Detection;0;SG 108
+Mindnet, Extended;Detection;+1;SG 108
+Night Vision;Detection;-3;SG 108
+Passenger;Detection;-1;Sh 18
+Recorded Room;Detection;0;Sh 18
+Secret Handshake;Detection;-4;Sh 18
+Sending;Detection;+2;Sh 18
+[Sense] Cryptesthesia;Detection;-3;SG 108
+[Sense] Link;Detection;-3;Sh 18
+Spatial Sense;Detection;-3;SG 108
+Spatial Sense, Extended;Detection;-1;SG 108
+Thought Recognition;Detection;0;SG 108
+Translate;Detection;-3;SG 109
+Alleviate Addiction;Health;-6;SG 109
+Alleviate [Allergy];Health;-6;SG 109
+Alleviate Nausea;Health;-4;Sh 19
+Ambidexterity;Health;-3;SG 109
+Antidote;Health;-3;SR5 288
+Awaken;Health;-3;SG 109
+Clot;Health;-2;FA 127
+Convert Blood to Ichor;Health;0;Sh 18
+Crank;Health;-3;SG 109
+Cure Disease;Health;-4;SR5 288
+Decontamination;Health;-4;Sh 18
+Decrease [Attribute];Health;-2;SR5 286
+Decrease Reflexes;Health;-2;SG 110
+Decrease Inherent Limits;Health;-1;SG 110
+Dehydrate;Health;-4;Sh 18
+Detox;Health;-6;SR5 288
+Enabler;Health;-3;SG 110
+Fast;Health;-3;SG 110
+Forced Defense;Health;-1;SG 110
+Ghoulish Strength;Health;-4;Sh 19
+Heal;Health;-4;SR5 288
+Healthy Glow;Health;-2;Sh 19
+Hibernate;Health;-2;SS 190
+Hydrate;Health;-4;Sh 19
+Increase [Attribute];Health;-3;SR5 288
+Increase Inherent Limits;Health;-1;SG 110
+Increase Reflexes;Health;0;SR5 288
+Inflict Disease;Health;-3;Sh 19
+Intoxication;Health;-3;SS 190
+Multiply Food;Health;-2;FA 50
+Nauseate;Health;-2;Sh 19
+Nutrition;Health;F-3/F SS 190
+Oxygenate;Health;-5;SR5 288
+Personal Warmth;Health;-4;Sh 19
+Prophylaxis;Health;-4;SR5 289
+Resist Pain;Health;-4;SR5 289
+Rot;Health;0;Sh 20
+Share Damage;Health;-4;FA 127
+Somatic Healing;Health;-4;FA 127
+Stabilize;Health;-4;SR5 289
+Sympathetic Reprisal;Health;-2;FA 128
+Vampiric Speed;Health;-2;Sh 20
+Agony;Illusion;-4;SR5 290
+Bugs;Illusion;-3;SR5 290
+Camouflage Check;Illusion;-2;SG 111
+Chaff;Illusion;-1;SG 111
+Chaos;Illusion;-2;SR5 290
+Chaotic World;Illusion;0;SR5 290
+Confusion;Illusion;-3;SR5 290
+Decoy;Illusion;-3;SG 111
+Double Image;Illusion;-1;SG 111
+Dream;Illusion;-3;SG 111
+Entertainment;Illusion;-3;SR5 290
+Euphoria;Illusion;-3;SG 111
+False Impression;Illusion;-4;Sh 20
+Foreboding;Illusion;-3;SG 112
+Hot Potato;Illusion;-3;SG 112
+Hush;Illusion;-2;SR5 291
+Improved Invisibility;Illusion;-1;SR5 291
+Incubus;Illusion;-3;CA 153
+Incubus Shroud;Illusion;-1;CA 153
+Invisibility;Illusion;-2;SR5 291
+Manascape;Illusion;-2;Sh 20
+Mask;Illusion;-2;SR5 291
+Mass Agony;Illusion;-2;SR5 290
+Mass Confusion;Illusion;-1;SR5 290
+Mass [Sense] Removal;Illusion;-1;SG 112
+Opium Den;Illusion;-1;SG 111
+Phantasm;Illusion;-1;SR5 291
+Physical Camouflage Check;Illusion;0;SG 111
+Physical Mask;Illusion;-1;SR5 291
+[Sense] Removal;Illusion;-3;SG 112
+Silence;Illusion;-1;SR5 291
+Sound Barrier;Illusion;-3;SG 113
+Sound Barrier;Illusion;-2;SS 190
+Stealth;Illusion;-2;SR5 292
+Stench;Illusion;-1;SG 113
+Stink;Illusion;-3;SG 113
+Swarm;Illusion;-1;SR5 290
+Switch Vehicle Signature ;pecial F+1 SG 113
+Trid Entertainment;Illusion;-2;SR5 290
+Trid Phantasm;Illusion;0;SR5 291
+Vampiric Stealth;Illusion;-3;Sh 20
+Vehicle Mask;Illusion;-3;SG 113
+Vehicle Mask;Illusion;-2;SS 190
+Air Filter;Manipulation;-6;Sh 20
+Alter Memory;Manipulation;+1;Sh 20
+Alter Temperature;Manipulation;-3;Sh 20
+Animate;Manipulation;-1;SR5 292
+Armor;Manipulation;-2;SR5 292
+Astral Armor;Manipulation;-2;Sh 21
+Bind;Manipulation;-2;SG 113
+Blood Blade;Manipulation;-1;FA 129
+Blood Puppet;Manipulation;-1;FA 128
+Blood Whip;Manipulation;-2;FA 129
+Branch;Manipulation;-2;FA 49
+Bug Zapper;Manipulation;+1;SG 114
+Calm Animal;Manipulation;-3;SG 114
+Calm Pack;Manipulation;-1;SG 114
+Catch;Manipulation;-2;HT 191
+Catfall;Manipulation;-3;SG 114
+Clean [Element];Manipulation;-3;SG 114
+Compel Truth;Manipulation;-1;SG 114
+Conceal Scent;Manipulation;-3;HT 191
+Control Actions;Manipulation;-1;SR5 292
+Control Animal;Manipulation;-3;SG 115
+Control Emotions;Manipulation;-1;Sh 21
+Control Pack;Manipulation;-1;SG 115
+Control Thoughts;Manipulation;-1;SR5 293
+Convince;Manipulation;-2;SS 189
+Corpse Lash;Manipulation;-1;FA 129
+Corpse Spikes;Manipulation;0;FA 129
+[Critter] Form;Manipulation;-4;SG 118
+Decrease Gear Limits;Manipulation;-1;SG 116
+Decrease Noise;Manipulation;-1;SG 116
+Deflection;Manipulation;-1;SG 115
+[Element] Aura;Manipulation;+1;SG 115
+[Element] Wall;Manipulation;+2;SG 115
+Evaporate;Manipulation;-4;Sh 21
+Fashion;Manipulation;-1;SG 115
+Fashion;Manipulation;-1;SS 189
+Fix;Manipulation;0;SG 116
+Fling;Manipulation;-2;SR5 293
+Gecko Crawl;Manipulation;-3;SG 116
+Glue;Manipulation;-3;SG 116
+Glue Strip;Manipulation;-1;SG 116
+Gravity;Manipulation;+1;FA 50
+Gravity Well;Manipulation;+3;FA 50
+Growth;Manipulation;+3;FA 49
+Ice Sheet;Manipulation;0;SR5 293
+Ignite;Manipulation;-1;SR5 293
+Incision;Manipulation;-2;BB 21
+Increase Gear Limits;Manipulation;-1;SG 116
+Increase Noise;Manipulation;-3;SG 116
+Influence;Manipulation;-1;SR5 293
+Insulate;Manipulation;-2;Sh 21
+Interference;Manipulation;-1;SG 117
+Interference;Manipulation;-2;SS 189
+Levitate;Manipulation;-2;SR5 293
+Light;Manipulation;-4;SR5 293
+Lock;Manipulation;-1;SG 117
+Looking Glass;Manipulation;-3;Sh 21
+Magic Fingers;Manipulation;-2;SR5 294
+Makeover;Manipulation;-3;SG 117
+Mana Barrier;Manipulation;-2;SR5 294
+Mana Bind;Manipulation;-2;SG 114
+Mana Net;Manipulation;-1;SG 114
+Mana Static;Manipulation;-1;SG 117
+Mass Animate;Manipulation;+1;SR5 292
+Mist;Manipulation;-3;SG 117
+Mob Control;Manipulation;+1;SR5 292
+Mob Mind;Manipulation;+1;SR5 293
+Mob Mood;Manipulation;+1;Sh 21
+Napalm Wall;Manipulation;0;Sh 21
+Net Bind;Manipulation;-1;SG 113
+Offensive Mana Barrier;Manipulation;+3;SG 117
+Petrify;Manipulation;-2;Sh 22
+Physical Barrier;Manipulation;-1;SR5 294
+Poltergeist;Manipulation;-2;SR5 294
+Preserve;Manipulation;-3;SG 117
+Protect Vehicle;Manipulation;-1;SG 117
+Pulse;Manipulation;+3;SG 118
+Pulse;Manipulation;-4;Sh 22
+Radiation Barrier;Manipulation;-2;Sh 22
+Radiation Shield;Manipulation;-4;Sh 22
+Recharge Potency;Manipulation;+1;HT 192
+Reinforce;Manipulation;-1;SG 118
+Rewind;Manipulation;0;CA 153
+Rosebush;Manipulation;+2;FA 94
+Shape [Material];Manipulation;-2;SG 118
+Shapechange;Manipulation;-3;SG 118
+Shadow;Manipulation;-3;SR5 294
+Slow Vehicle;Manipulation;+1;SG 118
+Snakeblood;Manipulation;-2;HT 192
+Spirit Barrier;Manipulation;-1;SG 119
+Spirit Zapper;Manipulation;+1;SG 119
+Sterilize;Manipulation;-3;SG 119
+Thorn;Manipulation;0;FA 94
+Turn to Goo;Manipulation;+3;SG 119
+Vines;Manipulation;-1;FA 94
+Viscera Web;Manipulation;+4;FA 129
